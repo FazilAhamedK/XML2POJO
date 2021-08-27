@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <company>
 	<name>Neon Feathers Inc.</name>
 	<city>Casadonium</city>
 	<type>PRIVATE</type>
+
+	<employees>
+		<employee type="Regular">
+			<name>Sunikkana Sarkar</name>
+			<dateOfJoining>27-Aug-2021</dateOfJoining>
+		</employee>
+
+		<employee type="Intern">
+			<name>Fazil Ahamed K</name>
+			<dateOfJoining>06-Feb-2017</dateOfJoining>
+			<internshipType>WINTER</internshipType>
+		</employee>
+	</employees>
 </company>
